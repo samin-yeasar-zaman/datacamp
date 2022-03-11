@@ -1,3 +1,4 @@
-print("Hello world")
-print("Hello world")
-print("Hello world")
+a = 6
+b = 7
+sum = a+b
+print(sum)
